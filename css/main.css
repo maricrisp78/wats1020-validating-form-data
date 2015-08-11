@@ -4,12 +4,33 @@
    Author's custom styles
    ========================================================================== */
 
+body {
+	background-color: #90C3D4;
+}
+
+.error {
+	color: red;
+}
+
+label {
+	width: 300px;
+}
+
+.expirationmonth {
+	margin: -15px;
+	
+}	
+
+.expirationyear {
+	margin: -125px;
+	margin-bottom: 10px;
+}
 
 
-
-
-
-
+#SecurityCode {
+	margin-right: 30px;
+	margin-bottom: 10px;
+}
 
 
 
